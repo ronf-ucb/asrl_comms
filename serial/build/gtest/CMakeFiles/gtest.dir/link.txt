@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libgtest.so -o /home/linaro/fearing_rosbuild_overlay/asrl_comms/serial/lib/libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o -L/home/linaro/fearing_rosbuild_overlay/asrl_comms/serial/build/gtest/src -lpthread -Wl,-rpath,/home/linaro/fearing_rosbuild_overlay/asrl_comms/serial/build/gtest/src 

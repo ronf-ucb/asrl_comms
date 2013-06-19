@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="serial" type="serial_node"  name="serial_node">
+		<param name="serial_port" value="/dev/ttyUSB0"/>
+		<param name="baud_rate" value="9600"/>
+	</node>
+</launch>

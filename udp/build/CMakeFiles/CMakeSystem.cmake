@@ -1,0 +1,15 @@
+INCLUDE("/home/linaro/ros_catkin_ws/install_isolated/share/ros/core/rosbuild/rostoolchain.cmake")
+
+SET(CMAKE_SYSTEM "Linux-3.0.60-odroidu2")
+SET(CMAKE_SYSTEM_NAME "Linux")
+SET(CMAKE_SYSTEM_VERSION "3.0.60-odroidu2")
+SET(CMAKE_SYSTEM_PROCESSOR "armv7l")
+
+SET(CMAKE_HOST_SYSTEM "Linux-3.0.60-odroidu2")
+SET(CMAKE_HOST_SYSTEM_NAME "Linux")
+SET(CMAKE_HOST_SYSTEM_VERSION "3.0.60-odroidu2")
+SET(CMAKE_HOST_SYSTEM_PROCESSOR "armv7l")
+
+SET(CMAKE_CROSSCOMPILING "FALSE")
+
+SET(CMAKE_SYSTEM_LOADED 1)

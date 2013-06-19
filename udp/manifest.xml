@@ -1,0 +1,22 @@
+<package>
+  <description brief="udp">
+
+     udp
+
+  </description>
+  <author>Paul Furgale</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/udp</url>
+  <depend package="roscpp"/>
+  <depend package="libasrl"/>
+  <depend package="asrl_sensor_msgs"/>
+  <export>
+    <!-- I'm not sure if -Wl,-rpath,${prefix}/lib is needed below -->
+    <cpp cflags="`rosboost-cfg --cflags` -I${prefix}/include"
+         lflags="`rosboost-cfg --lflags thread` -Wl,-rpath,${prefix}/lib -L${prefix}/lib -ludp"/>
+  </export>
+
+</package>
+
+

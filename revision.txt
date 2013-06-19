@@ -1,0 +1,10 @@
+Path: trunk
+URL: svn+asrl://128.100.201.178/srv/asrl-svn/code/asrl-ros/asrl_comms/trunk
+Repository Root: svn+asrl://128.100.201.178/srv/asrl-svn/code
+Repository UUID: d8c0fbf6-623e-0410-b3a3-dba22c474feb
+Revision: 5570
+Node Kind: directory
+Last Changed Author: tongc
+Last Changed Rev: 5361
+Last Changed Date: 2011-10-13 22:54:38 +0200 (Thu, 13 Oct 2011)
+

@@ -1,0 +1,3 @@
+uint32 rate    		# the requested serial baud rate
+---
+bool isBaudCorrect   	# True if the baud rate is as requested, false if it is not

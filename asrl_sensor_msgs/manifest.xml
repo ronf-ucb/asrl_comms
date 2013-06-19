@@ -1,0 +1,14 @@
+<package>
+  <description brief="asrl_sensor_msgs">
+
+     asrl_sensor_msgs
+
+  </description>
+  <author>Paul Furgale</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/asrl_sensor_msgs</url>
+
+</package>
+
+
